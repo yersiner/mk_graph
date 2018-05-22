@@ -1,0 +1,12 @@
+{
+	"code": 200,
+	"msg": "请求成功",
+	"obj": {
+		"signTotalCount": 31,
+		"userCount": 1,
+		"regionSignTotalCount": 31,
+		"regionUserCount": 1,
+		"aveUpload": 10
+	},
+	"transFlowNo": "5a52eb66e8a2fc2a206ba5ef"
+}

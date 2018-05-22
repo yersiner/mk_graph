@@ -1,0 +1,14 @@
+{
+	"code": 200,
+	"msg": "请求成功",
+	"obj": {
+		"signsTotalList": [{
+			"hospitalName": "观山湖医院",
+			"signTotal": 67
+		}, {
+			"hospitalName": "观山湖区金阳医院",
+			"signTotal": 31
+		}]
+	},
+	"transFlowNo": "5a548c17e8a2fc0784b68075"
+}

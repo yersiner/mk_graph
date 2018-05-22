@@ -1,0 +1,34 @@
+{
+    "code": 200,
+    "msg": "请求成功",
+    "obj": {
+        "_id": "5a28ad70f11d1263b832bf24",
+        "region_id": "5a30d898f11d1272f8b2b8ef",
+        "name": "观山湖区金阳医院",
+        "full_name": "贵州省贵阳市观山湖区金阳医院",
+        "nature": "公立",
+        "grade": "三级甲等",
+        "phone": "18711324992",
+        "admin_ids": ["5a28ae7af11d1263807121b8"],
+        "introduction": null,
+        "images": null,
+        "counts": {
+            "departments": 9,
+            "members": 1
+        },
+        "address": "贵州省贵阳市观山湖区碧海社区",
+        "status": 0,
+        "familyCount": 0,
+        "joinCount": 0,
+        "visitCount": 0,
+        "userCount": 0,
+        "nativeFlag": "贵州省贵阳市",
+        "hospitalId": "5a28ad70f11d1263b832bf24",
+        "visitePercent": 0,
+        "joinPercent": 0,
+        "province": "贵州省",
+        "prefecture": "贵阳市",
+        "county": "观山湖区"
+    },
+    "transFlowNo": "5a532b29e8a2fc1cf4eab9d6"
+}

@@ -1,0 +1,34 @@
+{
+	"code": 200,
+	"msg": "请求成功",
+	"obj": {
+		"list": [{
+			"_id": "5a52dc52c5c2ef49d6a961f6",
+			"user_id": "5a52d687c5c2ef3455104f64",
+			"record_id": "1515379733",
+			"type": 0,
+			"day": "2018-01-08",
+			"status": 0,
+			"value": "101/69",
+			"times": {
+				"$numberLong": "1515379794"
+			},
+			"szy": "101",
+			"ssy": "69"
+		}, {
+			"_id": "5a52d8acc5c2ef3455104f66",
+			"user_id": "5a52d687c5c2ef3455104f64",
+			"record_id": "1515378785",
+			"type": 0,
+			"day": "2018-01-08",
+			"status": 1,
+			"value": "105/70",
+			"times": {
+				"$numberLong": "1515378860"
+			},
+			"szy": "105",
+			"ssy": "70"
+		}]
+	},
+	"transFlowNo": "5a6017bde8a2fc20381f4676"
+}

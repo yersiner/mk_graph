@@ -1,0 +1,28 @@
+{
+    "code":200,
+    "msg":"请求成功",
+    "obj":{
+        "signId":"5a2f96f3f11d121c4c7018e1",
+        "number_no":"UZ21b8068275",
+        "phone":"13765654586",
+        "name":"gyfnice",
+        "sex":1,
+        "age":18,
+        "address":"安徽省淮南市大通区大通居仁村三区39-5-6室",
+        "type":-1,
+        "status":3,
+        "channel":"pc",
+        "peoples":"汉族",
+        "id_card":"340402197303110018",
+        "hospitalName":"贵州省贵阳市观山湖区金阳医院",
+        "times":1513068275,
+        "time_stop":1513068275,
+        "upload_img":[
+            "4851513068272.png",
+            "5461513073731.png"
+        ],
+        "marking":"糖尿病 高血压 脑梗 "
+    },
+    "transFlowNo":"5a3cf2fd5748022c14f4ff6b",
+    "token":"15139438054025a3cf2fd574802169c772805"
+}

@@ -1,0 +1,9 @@
+{
+    "code":200,
+    "msg":"请求成功",
+    "obj":{
+        "result":"success"
+    },
+    "transFlowNo":"5a3b30cc5748020b74fc2cbf",
+    "token":"15138285570675a3b30cd57480227b4d68ac5"
+}

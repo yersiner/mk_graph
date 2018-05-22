@@ -1,0 +1,127 @@
+{
+    "code": 200,
+    "msg": "请求成功",
+    "obj": {
+        "pressureList": [{
+            "_id": "5a52dc52c5c2ef49d6a961f6",
+            "region_id": "5a30d898f11d1272f8b2b8ef",
+            "gov_id": "5a28ad70f11d1263b832bf24",
+            "doctor_id": "5a44445265201251e91f55c4",
+            "user_id": "5a52d687c5c2ef3455104f64",
+            "record_id": "1515379733",
+            "type": 0,
+            "day": "2018-01-08",
+            "status": 0,
+            "value": "101/69",
+            "times": {
+                "$numberLong": "1515379794"
+            },
+            "szy": "101",
+            "ssy": "69"
+        }, {
+            "_id": "5a52d8acc5c2ef3455104f66",
+            "region_id": "5a30d898f11d1272f8b2b8ef",
+            "gov_id": "5a28ad70f11d1263b832bf24",
+            "doctor_id": "5a44445265201251e91f55c4",
+            "user_id": "5a52d687c5c2ef3455104f64",
+            "record_id": "1515378785",
+            "type": 0,
+            "day": "2018-01-08",
+            "status": 1,
+            "value": "105/70",
+            "times": {
+                "$numberLong": "1515378860"
+            },
+            "szy": "105",
+            "ssy": "70"
+        }],
+        "oxygenList": [{
+            "_id": "5a52db08c5c2ef3455104f6e",
+            "region_id": "5a30d898f11d1272f8b2b8ef",
+            "gov_id": "5a28ad70f11d1263b832bf24",
+            "doctor_id": "5a44445265201251e91f55c4",
+            "user_id": "5a52d687c5c2ef3455104f64",
+            "record_id": "1515379395",
+            "type": 1,
+            "day": "2018-01-08",
+            "status": 0,
+            "value": "97",
+            "times": {
+                "$numberLong": "1515379464"
+            }
+        }, {
+            "_id": "5a52dac7c5c2ef3455104f6b",
+            "region_id": "5a30d898f11d1272f8b2b8ef",
+            "gov_id": "5a28ad70f11d1263b832bf24",
+            "doctor_id": "5a44445265201251e91f55c4",
+            "user_id": "5a52d687c5c2ef3455104f64",
+            "record_id": "1515379354",
+            "type": 1,
+            "day": "2018-01-08",
+            "status": 0,
+            "value": "97",
+            "times": {
+                "$numberLong": "1515379399"
+            }
+        }, {
+            "_id": "5a52da07c5c2ef3455104f69",
+            "region_id": "5a30d898f11d1272f8b2b8ef",
+            "gov_id": "5a28ad70f11d1263b832bf24",
+            "doctor_id": "5a44445265201251e91f55c4",
+            "user_id": "5a52d687c5c2ef3455104f64",
+            "record_id": "1515379173",
+            "type": 1,
+            "day": "2018-01-08",
+            "status": 0,
+            "value": "88",
+            "times": {
+                "$numberLong": "1515379356"
+            }
+        }],
+        "heartList": [{
+            "_id": "5a52db07c5c2ef3455104f6d",
+            "region_id": "5a30d898f11d1272f8b2b8ef",
+            "gov_id": "5a28ad70f11d1263b832bf24",
+            "doctor_id": "5a44445265201251e91f55c4",
+            "user_id": "5a52d687c5c2ef3455104f64",
+            "record_id": "1515379395",
+            "type": 3,
+            "day": "2018-01-08",
+            "status": 0,
+            "value": "99",
+            "times": {
+                "$numberLong": "1515379715"
+            }
+        }, {
+            "_id": "5a52dac7c5c2ef3455104f6c",
+            "region_id": "5a30d898f11d1272f8b2b8ef",
+            "gov_id": "5a28ad70f11d1263b832bf24",
+            "doctor_id": "5a44445265201251e91f55c4",
+            "user_id": "5a52d687c5c2ef3455104f64",
+            "record_id": "1515379354",
+            "type": 3,
+            "day": "2018-01-08",
+            "status": 0,
+            "value": "95",
+            "times": {
+                "$numberLong": "1515379399"
+            }
+        }, {
+            "_id": "5a52da07c5c2ef3455104f6a",
+            "region_id": "5a30d898f11d1272f8b2b8ef",
+            "gov_id": "5a28ad70f11d1263b832bf24",
+            "doctor_id": "5a44445265201251e91f55c4",
+            "user_id": "5a52d687c5c2ef3455104f64",
+            "record_id": "1515379173",
+            "type": 3,
+            "day": "2018-01-08",
+            "status": 0,
+            "value": "97",
+            "times": {
+                "$numberLong": "1515379207"
+            }
+        }],
+        "sugarList": []
+    },
+    "transFlowNo": "5a5ecc8fe8a2fc1c600205d4"
+}

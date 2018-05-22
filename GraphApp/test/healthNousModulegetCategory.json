@@ -1,0 +1,48 @@
+{
+	"code": 200,
+	"msg": "请求成功",
+	"obj": {
+		"list": [{
+			"_id": "5a56d3df56563d08e0b27690",
+			"name": "一级分类A",
+			"parent_id": "1",
+			"sort": 21,
+			"status": 0,
+			"childNode": [{
+				"_id": "5a56d3df56563d08e0b27691",
+				"name": "二级分类A1",
+				"parent_id": "5a56d3df56563d08e0b27690",
+				"sort": 2,
+				"status": 0,
+				"childNode": []
+			}, {
+				"_id": "5a56d3df56563d08e0b27693",
+				"name": "二级分类A2",
+				"parent_id": "5a56d3df56563d08e0b27690",
+				"sort": 2,
+				"status": 0,
+				"childNode": [{
+					"_id": "5a56d3df56563d08e0b27694",
+					"name": "三级分类A1",
+					"parent_id": "5a56d3df56563d08e0b27693",
+					"sort": 25,
+					"status": 0
+				}, {
+					"_id": "5a56d3df56563d08e0b27695",
+					"name": "三级分类A2",
+					"parent_id": "5a56d3df56563d08e0b27693",
+					"sort": 20,
+					"status": 0
+				}]
+			}]
+		}, {
+			"_id": "5a56d4d556563d08e0b27692",
+			"name": "一级分类B",
+			"parent_id": "1",
+			"sort": 20,
+			"status": 0,
+			"childNode": []
+		}]
+	},
+	"transFlowNo": "5a571448e8a2fc0768bd7d1b"
+}

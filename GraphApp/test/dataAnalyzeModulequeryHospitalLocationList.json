@@ -1,0 +1,17 @@
+{
+	"code": 200,
+	"msg": "请求成功",
+	"obj": {
+		"locationList": [{
+			"region_id": "5a30d898f11d1272f8b2b8ef",
+			"hospitalName": "金阳医院",
+			"address": "石林路1号",
+			"location": {
+				"lng": 106.620131,
+				"lat": 26.613206,
+				"hospitalId": "5a28ad70f11d1263b832bf24"
+			}
+		}]
+	},
+	"transFlowNo": "5a5315d9e8a2fc2a206ba66b"
+}

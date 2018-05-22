@@ -1,0 +1,12 @@
+{
+    "code":200,
+    "msg":"success",
+    "token": "100000",
+    "obj":{
+        "accountId":77777,                 
+        "phone": "13020003856",                       
+        "name": "gyfnice",                        
+        "status": 2,                      
+        "times": 1512463606394                     
+    }
+}

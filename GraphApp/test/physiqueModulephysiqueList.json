@@ -1,0 +1,110 @@
+{
+    "code":200,
+    "msg":"请求成功",
+    "obj":{
+        "totalCount":3,
+        "list":[
+            {
+              "_id":"12134423",  
+              "user_id": "342424234",
+              "name":"zhangsan" ,        
+              "sex":0,
+              "phone":"18255444545",       
+              "hospitalName":"金阳医院", 
+              "index_0": {       
+                  "value": "10次/分",
+                  "status":0,
+                  "times": "2018:-06-05 15:30"
+                },
+                "index_1": {       
+                  "value": "145/71_mmHg(kPa)",
+                  "status":-1,
+                  "times": "2018:-06-05 15:30"
+                },
+                "index_2": {       
+                  "value": "30mmol/L", 
+                  "status": -1,
+                  "times": "2018:-06-05 15:30"
+                },
+                "index_3": {     
+                  "value": "30mmol/L", 
+                  "status": -1,
+                  "times": "2018:-06-05 15:30"
+                },
+                "index_4": {    
+                  "value": "30mmol/L",
+                  "status": -1,
+                  "times": "2018:-06-05 15:30"
+                }
+            },
+            {
+              "_id":"12134423",  
+              "user_id": "342424234",
+              "name":"zhangsan" ,        
+              "sex":0,
+              "phone":"18255444545",       
+              "hospitalName":"花溪医院", 
+              "index_0": {       
+                  "value": "20次/分",
+                  "status":1,
+                  "times": "2018:-06-05 15:30"
+                },
+                "index_1": {       
+                  "value": "145/71_mmHg(kPa)",
+                  "status":0,
+                  "times": "2018:-06-05 15:30"
+                },
+                "index_2": {       
+                  "value": "30mmol/L", 
+                  "status": 0,
+                  "times": "2018:-06-05 15:30"
+                },
+                "index_3": {     
+                  "value": "30mmol/L", 
+                  "status": 0,
+                  "times": "2018:-06-05 15:30"
+                },
+                "index_4": {    
+                  "value": "30mmol/L",
+                  "status": 0,
+                  "times": "2018:-06-05 15:30"
+                }
+            },
+            {
+              "_id":"12134423",  
+              "user_id": "342424234",
+              "name":"zhangsan" ,        
+              "sex":0,
+              "phone":"18255444545",       
+              "hospitalName":"白云医院", 
+              "index_0": {       
+                  "value": "20次/分",
+                  "status":-1,
+                  "times": "2018:-06-05 15:30"
+                },
+                "index_1": {       
+                  "value": "145/71_mmHg(kPa)",
+                  "status":1,
+                  "times": "2018:-06-05 15:30"
+                },
+                "index_2": {       
+                  "value": "30mmol/L", 
+                  "status": 1,
+                  "times": "2018:-06-05 15:30"
+                },
+                "index_3": {     
+                  "value": "30mmol/L", 
+                  "status": 1,
+                  "times": "2018:-06-05 15:30"
+                },
+                "index_4": {    
+                  "value": "30mmol/L",
+                  "status": 1,
+                  "times": "2018:-06-05 15:30"
+                }
+            }
+        ]
+    },
+    "transFlowNo":"5a409fd65748022a684f9cd8",
+    "token":"15141846627205a409fd6574802169c772b82"
+}

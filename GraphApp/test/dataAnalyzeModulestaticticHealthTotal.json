@@ -1,0 +1,15 @@
+{
+	"code": 200,
+	"msg": "请求成功",
+	"obj": {
+		"casesCount": 3,
+		"hospitalCount": 1,
+		"familyCount": 1,
+		"userCount": 7,
+		"regionCaseCount": 3,
+		"regionHospitalCount": 1,
+		"regionFamilyCount": 1,
+		"regionPercent": 2
+	},
+	"transFlowNo": "5a4f4756e8a2fc25200c0710"
+}

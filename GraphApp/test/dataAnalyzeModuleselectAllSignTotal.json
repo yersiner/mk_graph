@@ -1,0 +1,20 @@
+{
+	"code": 200,
+	"msg": "请求成功",
+	"obj": {
+		"allSignList": [{
+			"day": "2017-12-15",
+			"signsTotal": 1
+		}, {
+			"day": "2017-12-16",
+			"signsTotal": 2
+		}, {
+			"day": "2017-12-23",
+			"signsTotal": 1
+		}, {
+			"day": "2017-12-25",
+			"signsTotal": 27
+		}]
+	},
+	"transFlowNo": "5a549580e8a2fc0784b6808a"
+}

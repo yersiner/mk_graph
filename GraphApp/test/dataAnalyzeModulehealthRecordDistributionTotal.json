@@ -1,0 +1,460 @@
+{
+	"code": 200,
+	"msg": "请求成功",
+	"obj": {
+		"regionCaseList": [{
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 0,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 1,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 2,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 3,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 4,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 5,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 6,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 7,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 8,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 9,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 10,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 11,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 12,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 13,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 14,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 15,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 16,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 17,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 18,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 19,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 20,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 21,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 22,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 23,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 24,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 25,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 26,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 27,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 28,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}, {
+			"case_id": "5a2f3ea0f11d1281045d105c",
+			"number": 29,
+			"nativeFlag": "贵州省贵阳市",
+			"user_id": "5a2e5ae5f11d12634c7add91",
+			"age": 1,
+			"avatar": "http://spread.static.diditaxi.com.cn/bus/spread/static/static/img/logo_diditaxi_a918fd1.jpg",
+			"name": "二宝1",
+			"peoples": "维吾尔族",
+			"sex": 1,
+			"diseases": [
+				"1",
+				"2",
+				"3"
+			]
+		}],
+		"totalCount": 82,
+		"exportIds": "5a2fbfdbf11d1268c85d6802, 5a2f3ea0f11d1281045d105c"
+	},
+	"transFlowNo": "5a4f31f6e8a2fc25200c06b9"
+}
